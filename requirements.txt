@@ -34,6 +34,7 @@ dvc-objects==5.1.1
 dvc-render==1.0.2
 dvc-studio-client==0.22.0
 dvc-task==0.40.2
+dvclive==3.48.4
 entrypoints==0.4
 filelock==3.18.0
 flatten-dict==0.4.2
@@ -55,6 +56,7 @@ mdurl==0.1.2
 multidict==6.6.3
 networkx==3.4.2
 numpy==2.2.6
+nvidia-ml-py==12.575.51
 omegaconf==2.3.0
 orjson==3.11.1
 packaging==25.0
@@ -71,6 +73,7 @@ pydot==4.0.1
 pygit2==1.18.1
 Pygments==2.19.2
 pygtrie==2.5.0
+pynvml==12.0.0
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 pytz==2025.2
